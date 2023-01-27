@@ -1,0 +1,9 @@
+
+Create New Repository in your GitHub profile by clicking on "New" button and select a name.
+Open visual sudio and select gitbash from terminal and then write.
+
+1.	git init
+2.	link of repository
+3.	git add .
+4.	git commit -m "Hello Pakistan"
+5.	git push -u origin master
